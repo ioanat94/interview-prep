@@ -39,7 +39,7 @@
 
 **Evening exercise**
 
-- [ ] Build a debounced search input that fetches from the iTunes API, typed in TypeScript, with loading & error states
+- [ ] Build a debounced search input that fetches from the a public API of your choice, typed in TypeScript, with loading & error states
 
 ---
 
@@ -172,7 +172,7 @@
 
 **Evening exercise**
 
-- [ ] Full mini-project: debounced iTunes search, fully typed in TS, loading & error states, cancel stale requests with `AbortController`
+- [ ] Full mini-project: debounced search from a public API of your choice, fully typed in TS, loading & error states, cancel stale requests with `AbortController`
 
 ---
 
@@ -180,7 +180,7 @@
 
 **Mock session**
 
-- [ ] Timed 45 min: reproduce the iTunes debounced search task completely cold — no help, no googling
+- [ ] Timed 45 min: reproduce the debounced search task completely cold — no help, no googling
 - [ ] Review: write down every moment you hesitated. Those are Monday's warmup topics
 
 ---
@@ -572,7 +572,7 @@
 
 **Evening exercise**
 
-- [ ] Add React Testing Library tests to your iTunes/debounced search component — cover the input interaction, loading state, error state, and results rendering
+- [ ] Add React Testing Library tests to your API/debounced search component — cover the input interaction, loading state, error state, and results rendering
 
 ---
 
